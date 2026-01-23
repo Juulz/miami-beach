@@ -1,5 +1,4 @@
 /* Miami Beach - tropical theme for Actual Budget */
-:root {
 --color-tableBackground: #c5ece4;
 --color-tableBorder: #ffffff;
 --color-checkboxText: #ffffff;
@@ -27,6 +26,9 @@
 --color-pageTextLight: #7f4bae;
 --color-tableRowHeaderBackground: #f4cebe;
 --color-budgetNumberZero: hsl(271, 20%, 70%);
+--color-templateNumberFunded: #147d64;
+--color-templateNumberUnderFunded: #b88115;
+--color-budgetNumberPositive: #272630;
 
 --color-warningText: #b88115;
 --color-warningTextDark: #b88115;
