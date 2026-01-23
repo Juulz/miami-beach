@@ -13,7 +13,7 @@
 --color-sidebarItemAccentSelected: #d095ca;
 --color-sidebarItemTextSelected: #d095ca;
 --color-sidebarBudgetName: #f9deb8;
---color-tableTextSubdued: #b3a3c2;
+--color-tableTextSubdued: hsl(0, 20%, 70%);
 --color-upcomingBackground: #e9d0fb;
 --color-upcomingText: #470877;
 --color-warningBackground: #ffe066;
@@ -22,10 +22,11 @@
 --color-tableRowBackgroundHighlightText: #1e9484;
 --color-cardShadow: #7d98b5;
 --color-tableTextSelected: #1e9484;
---color-pageTextSubdued: #b3a3c2;
+--color-pageTextSubdued: #826bc7;
 --color-tableTextInactive: #b3a3c2;
 --color-pageTextLight: #7f4bae;
 --color-tableRowHeaderBackground: #f4cebe;
+--color-budgetNumberZero: hsl(271, 20%, 70%);
 
 --color-warningText: #b88115;
 --color-warningTextDark: #b88115;
@@ -35,6 +36,7 @@
 --color-budgetOtherMonth: #fdf4e7;
 --color-budgetHeaderCurrentMonth: #f4cebe;
 --color-budgetHeaderOtherMonth: #fbefe9;
+--color-toBudgetPositive: #5e2a91;
 
 --color-mobilePageBackground: #fdf4e7;
 
@@ -46,7 +48,7 @@
 --color-buttonNormalBackground: #e8ecf0;
 --color-buttonNormalBackgroundHover: #d9e2ec;
 
-/* base Light Theme starts here */
+
 --color-pageBackgroundModalActive: #bcccdc;
 --color-pageBackgroundTopLeft: #e8ecf0;
 --color-pageBackgroundBottomRight: #b3d9ff;
@@ -66,7 +68,7 @@
 --color-tableTextLight: #829AB1;
 --color-tableTextHover: #102A43;
 --color-tableHeaderText: #486581;
---color-tableHeaderBackground: #ffffff;
+--color-tableHeaderBackground: #f5f2ef;
 --color-tableBorderSelected: #8719E0;
 --color-tableBorderHover: #9446ED;
 --color-tableBorderSeparator: #829AB1;
