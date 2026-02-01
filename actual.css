@@ -219,8 +219,8 @@
 --color-noteTagDefault: #e4d4ff;
 --color-noteTagText: #000000;
   
---color-budgetCurrentMonth: #c5ece4;
---color-budgetOtherMonth: #fdf4e7;
+--color-budgetCurrentMonth: hsl(35, 84%, 92%);
+--color-budgetOtherMonth: hsl(35, 84%, 85%);
 --color-budgetHeaderCurrentMonth: #f5f2ef;
 --color-budgetHeaderOtherMonth: #fbefe9;
 --color-budgetNumberZero: hsl(271, 20%, 70%);
