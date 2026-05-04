@@ -11,8 +11,8 @@
 --color-pageBackgroundLineBottom: #b3d9ff;
   
 --color-pageText: #272630;
---color-pageTextLight: #7f4bae;
---color-pageTextSubdued: #826bc7;
+--color-pageTextLight: #627d98;
+--color-pageTextSubdued: #738da5;
 --color-pageTextDark: #243B53;
 --color-pageTextPositive: #7A0ECC;
 --color-pageTextLink: #1980D4;
@@ -26,14 +26,14 @@
 --color-cardBorder: #690CB0;
 --color-cardShadow: #7d98b5;
   
---color-tableBackground: #c5ece4;
+--color-tableBackground: #d8f3ed;
 --color-tableRowBackgroundHover: #e0b8dc;
 --color-tableText: #272630;
---color-tableTextLight: #829AB1;
---color-tableTextSubdued: hsl(0, 20%, 70%);
+--color-tableTextLight: #627d98;
+--color-tableTextSubdued: hsl(0, 20%, 60%);
 --color-tableTextSelected: #1e9484;
 --color-tableTextHover: #102A43;
---color-tableTextInactive: #b3a3c2;
+--color-tableTextInactive: #627d98;
 --color-tableHeaderText: #486581;
 --color-tableHeaderBackground: #f5f2ef;
 --color-tableBorder: #ffffff;
@@ -151,14 +151,14 @@
 --color-noticeTextMenu: #8EEDC7;
 --color-noticeBorder: #27AB83;
   
---color-warningBackground: #ffe066;
+--color-warningBackground: #fff5cc;
 --color-warningText: #b88115;
 --color-warningTextLight: #E6BB20;
 --color-warningTextDark: #b88115;
 --color-warningBorder: #E6BB20;
   
 --color-errorBackground: #ffccdd;
---color-errorText: #ff0011;
+--color-errorText: #AB091E;
 --color-errorTextDark: #AB091E;
 --color-errorTextDarker: #610316;
 --color-errorTextMenu: #FF9B9B;
@@ -223,7 +223,7 @@
 --color-budgetOtherMonth: hsl(35, 84%, 88%);
 --color-budgetHeaderCurrentMonth: #f5f2ef;
 --color-budgetHeaderOtherMonth: #fbefe9;
---color-budgetNumberZero: hsl(271, 20%, 70%);
+--color-budgetNumberZero: hsl(271, 20%, 60%);
 --color-budgetNumberNegative: #e12d39;
 --color-budgetNumberNeutral: #272630;
 --color-budgetNumberPositive: #272630;
@@ -242,6 +242,5 @@
 --color-tooltipBorder: #D9E2EC;
   
 --color-overlayBackground: rgba(0, 0, 0, 0.3);
- 
 
 }
