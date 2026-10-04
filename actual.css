@@ -1,6 +1,9 @@
 /* Miami Beach */
 
 :root {
+
+--color-sidebarHeaderText: var(--color-sidebarBudgetName);
+--color-sidebarBrand: var(--color-sidebarBudgetName);
   
 --color-pageBackground: #d095ca;
 --color-pageBackgroundModalActive: #bcccdc;
